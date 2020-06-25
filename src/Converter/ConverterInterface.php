@@ -1,6 +1,7 @@
 <?php
 
 /*
+ *
  * This file is part of the PDF Version Converter.
  *
  * (c) Thiago Rodrigues <xthiago@gmail.com>
